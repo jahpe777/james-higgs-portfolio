@@ -93,7 +93,7 @@ export const info = {
             image: mock1
         },
         {
-            title: "BigPapaBas",
+            title: "Big Papa Bas",
             live: "https://bigpapabas.vercel.app/",
             source: "https://github.com/jahpe777/bigpapabas",
             image: mock2
