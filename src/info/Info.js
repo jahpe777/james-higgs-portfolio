@@ -1,8 +1,8 @@
 import self from "../img/self.png"
-import mock1 from "../img/mock1.png"
-import mock2 from "../img/mock2.png"
-import mock3 from "../img/mock3.png"
-import mock4 from "../img/mock4.png"
+import mock1 from "../img/mock1.jpg"
+import mock2 from "../img/mock2.jpg"
+import mock3 from "../img/mock3.jpg"
+import mock4 from "../img/mock4.jpg"
 
 /* Hi there! Thanks for checking out my portfolio template. Be sure to read the comments to get a better understanding of
 how to make this template work best for you! */

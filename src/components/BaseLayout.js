@@ -43,7 +43,7 @@ export default function BaseLayout() {
             <Grid item>
                <Navbar darkMode={darkMode} handleClick={handleToggleDarkMode} active={active} setActive={setActive} />
             </Grid>
-            <Grid item flexGrow={1}>
+            <Grid item>
                {singlePage ? <SinglePageRoutes refs={{refHome, refAbout, refPortfolio}}/> : <MultiPageRoutes />}
             </Grid>
             <Grid item>
